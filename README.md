@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashgames773
 - 👀 I’m interested in Games Development and Designing.
-- 🌱 I’m currently learning C,C++,C#,Python,Java and Html.
-- 💞️ I’m looking to collaborate on Games Development and Designing.
+- 🌱 I’m currently learning C,C++,C#,Python and Html.
+- 💞️ I’m looking to collaborate on Games Development and Game Ideas.
 - 📫 How to reach me Gmail - Gmail - yashgames773@gmail.com , Instagram - @yashgames773
 
 <!---
